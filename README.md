@@ -11,4 +11,4 @@ KNN works by finding the distances between a query and all the examples in the d
 (K) closest to the query, then votes for the most frequent label (in the case of classification) or averages the labels (in 
 the case of regression).
 
-(This project was originally built as a submission for the Major Project 1 of the Cognitive Applications Workshop.)
+(This project was originally built as a submission project for Cognitive Applications Workshop.)
